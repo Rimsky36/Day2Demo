@@ -12,8 +12,10 @@ public class Day2Demo {
 	
 	/**
 	This is coming from another member	
-	*//
+	*/
 	
 		String firstName = "Jphn";
 	
+	
+	int age = 10;
 }
